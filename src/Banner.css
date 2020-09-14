@@ -1,0 +1,50 @@
+.banner-heading{
+    color: white;
+    font-size: 3rem;
+    padding-top: 45px;
+    margin-left: 10px;
+    font-weight: 800;
+    max-width: max-content;
+
+}
+
+.button{
+    height: 50px;
+margin-right: 4px;
+padding-left: 2rem;
+padding-right: 2.4rem;
+
+background-color: rgba(109,109,110,0.7);
+color: white;
+}
+.con{
+    margin-top: 30px;
+
+    padding: 8px;
+    margin-left: 30px;
+}
+.banner--fadeBottom{
+    height: 9.9rem;
+    background-image: linear-gradient(
+        180deg,transparent,rgba(37,37,37,0.61),#111
+    );
+}
+.buttos{
+    max-width: 300px;
+
+}
+.banner{
+    padding-top: 30px;
+    height: 448px;
+    color: white;
+    object-fit: contain;
+    
+  
+}
+.banner-overview{
+    margin-left: 10px;
+    max-width: 350px;
+    width: 40rem;
+    line-height: 1.1rem;
+    font-size: 0.8rem;
+}
